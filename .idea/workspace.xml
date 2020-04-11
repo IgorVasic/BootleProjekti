@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="69f7b7ac-a37f-4d8f-ba88-b1245b7de186" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../bottle/.idea/.gitignore" afterDir="false" />
@@ -9,11 +27,6 @@
       <change afterPath="$PROJECT_DIR$/../bottle/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bottle/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bottle/fristProject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/make_table.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_task.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../to_do_bottle/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../to_do_bottle/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../to_do_bottle/.idea/misc.xml" afterDir="false" />
@@ -498,6 +511,8 @@
       <change afterPath="$PROJECT_DIR$/../todo/venv/lib/python3.6/site-packages/setuptools/wheel.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../todo/venv/lib/python3.6/site-packages/setuptools/windows_support.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Zadaca_Broj_1" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadaca_Broj_1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo.db" beforeDir="false" afterPath="$PROJECT_DIR$/todo.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../zadaca_broj_2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zadaca_broj_2/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../zadaca_broj_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zadaca_broj_2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../zadaca_broj_2/.idea/zadaca_broj_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../zadaca_broj_2/.idea/zadaca_broj_2.iml" afterDir="false" />
@@ -838,7 +853,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1aMsMgcoGJIDhJKNv9fbF8OLGzN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -915,6 +930,44 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
@@ -931,22 +984,22 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1586629615833" />
-    <state width="950" height="275" key="GridCell.Tab.0.bottom" timestamp="1586636999416">
+    <state width="950" height="275" key="GridCell.Tab.0.bottom" timestamp="1586639303275">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="950" height="275" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1586636999416" />
-    <state width="950" height="275" key="GridCell.Tab.0.center" timestamp="1586636999416">
+    <state width="950" height="275" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1586639303275" />
+    <state width="950" height="275" key="GridCell.Tab.0.center" timestamp="1586639303274">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="950" height="275" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1586636999416" />
-    <state width="950" height="275" key="GridCell.Tab.0.left" timestamp="1586636999416">
+    <state width="950" height="275" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1586639303274" />
+    <state width="950" height="275" key="GridCell.Tab.0.left" timestamp="1586639303274">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="950" height="275" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1586636999416" />
-    <state width="950" height="275" key="GridCell.Tab.0.right" timestamp="1586636999416">
+    <state width="950" height="275" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1586639303274" />
+    <state width="950" height="275" key="GridCell.Tab.0.right" timestamp="1586639303275">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="950" height="275" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1586636999416" />
+    <state width="950" height="275" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1586639303275" />
     <state width="950" height="341" key="GridCell.Tab.1.bottom" timestamp="1586634341425">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -963,5 +1016,9 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="950" height="341" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1586634341425" />
+    <state x="228" y="429" width="708" height="243" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1586639208542">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="228" y="429" width="708" height="243" key="git4idea.remote.GitConfigureRemotesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1586639208542" />
   </component>
 </project>
